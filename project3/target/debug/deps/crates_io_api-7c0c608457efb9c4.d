@@ -1,0 +1,11 @@
+/Users/mr.chen/Desktop/2023_IDS/project3/target/debug/deps/crates_io_api-7c0c608457efb9c4.rmeta: /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/lib.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/async_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/error.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/sync_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/types.rs
+
+/Users/mr.chen/Desktop/2023_IDS/project3/target/debug/deps/libcrates_io_api-7c0c608457efb9c4.rlib: /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/lib.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/async_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/error.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/sync_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/types.rs
+
+/Users/mr.chen/Desktop/2023_IDS/project3/target/debug/deps/crates_io_api-7c0c608457efb9c4.d: /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/lib.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/async_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/error.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/sync_client.rs /Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/types.rs
+
+/Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/lib.rs:
+/Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/async_client.rs:
+/Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/error.rs:
+/Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/sync_client.rs:
+/Users/mr.chen/.cargo/registry/src/github.com-1ecc6299db9ec823/crates_io_api-0.8.1/src/types.rs:
